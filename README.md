@@ -13,7 +13,8 @@ I'm Annika, a student passionate about technology and continous learning. I'm us
 ### 🛠️ Tools & Technologies
 - Languages: **Java**, **JavaScript**, **SQL**
 
-💬 Feel free to reach out
+
+### 💬 Feel free to reach out
 <!--
 **h-erttua/h-erttua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
