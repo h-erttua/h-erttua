@@ -4,7 +4,7 @@ I'm Annika, a student passionate about technology and continous learning. I'm us
 
 ### 🌱 About Me
 - 💻 Currently studying **Automation and Computer Science**.
-- 👓 I have a professional background as an **Optometrist**
+- 👓 I have a professional background as an **Optometrist**.
 
 ### 📚 What You'll Find Here
 - 🛠️ Projects and assignments from my university courses.
